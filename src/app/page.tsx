@@ -9,7 +9,7 @@ export default function Home() {
           src="/next.svg"
           alt="Next.js logo"
           width={1800}
-          height={380000}
+          height={3800000}
           priority
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
